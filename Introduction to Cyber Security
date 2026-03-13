@@ -56,3 +56,9 @@ Administrative controls that provide a foundation for how an organization implem
 4. Storing the passwords of customers using a combination of encryption
 5. Separating cloud-based resources from the public Internet into an isolated private network segment
 6. Granting employee access to personal data and internal systems only via a secure VPN connection
+## Cyber Attackers
+Attackers are individuals or groups who attempt to exploit vulnerability for personal or financial gain.
+##  Types of cyber attackers
+1.White hat attackers
+2.Gray hat attackers
+3.Black hat attackers
