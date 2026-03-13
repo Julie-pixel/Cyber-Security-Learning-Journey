@@ -1,8 +1,58 @@
 Cybersecurity involves  protecting  individuals, organizations and governments from digital attacks by protecting systems and data from unauthorized use or harm.
 ## Levels of protection
-a) Individual : safeguard your identity and  personal data,
+a) Individual : safeguard your identity and  personal data.(Educational,Financial,Health records)
 b)Organization: responsibility to protect the organization’s data and customers.
 c) Government :  protection becomes even more important at the government level, where national security, economic stability and the safety and wellbeing of citizens are at stake
 ## Your Online Identity
 Scenario on how you create email username: KimSam (wrong method),kimSamm1970(Wrong Method),KSam(Correct Method),KSam23(Correct Method)
-
+## Personal Data
+Personal Data is asccessed by
+1. ISP (Internet Service Provider)
+2.Advertisers
+3. SE0
+4. Social Media
+5. Website Visited
+## Organizational Data
+Traditional Data :Transactional data such as details relating to buying and selling, production activities and basic organizational operations such as any information used to make employment decisions.
+Intellectual property:Patents, trademarks and new product plans, which allows an organization to gain economic advantage over its competitors. This information is often considered a trade secret and losing it could prove damage for the future of a company.
+Financial data such as income statements, balance sheets and cash flow statements, which provide insight into the health of a company.
+1.2.1.2 Internet of Things (IoT) and Big Data
+IoT is a large network of physical objects, such as sensors, software and other equipment. 
+All of these ‘things’ are connected to the Internet, with the ability to collect and share data.
+And given that storage options are expanding through virtualization, it’s not a surprise that the emergence of IoT has led to an exponential growth in data, creating a new area of interest in technology and business called 'Big Data.'
+## 3 foundational principles for protecting information systems ( CIA TRIAD)
+1. Confidentiality
+Set of rules that prevents sensitive information from being accessed to unauthorized people, resources and processes.
+Methods to ensure confidentiality include data encryption and two factor authentication.
+2. Integrity
+Ensures that system information or processes are not changed. 
+One way to ensure integrity is to use a hash function or checksum.
+3. Availability 
+Means that authorized users are able to access systems and data when and where needed and those that do not meet established conditions, are not. 
+## The protection of information in each of its possible states.
+1.Processing 
+Refers to data that is being used to perform an operation such as updating a database record (data in process).
+2.Storage 
+Refers to data stored in memory or on a permanent storage device such as a hard drive, solid-state drive or USB drive.
+3.Transmission
+Refers to data traveling between information systems (data in transit).
+## The security measures used to protect data.
+1. Awareness, training and education 
+Measures put in place by an organization to ensure that users are knowledgeable about potential security threats and the actions they can take to protect information systems.
+2. Technology 
+Hardware-based solutions designed to protect information systems such as firewalls, which continuously monitor your network in search of possible malicious incidents.
+3. Policy and procedure 
+Administrative controls that provide a foundation for how an organization implements information assurance, such as incident response plans and best practice guidelines.
+## Data Security Breaches : Involves when unauthorized users access the system
+## Consequences of a Security Breach (Cyber Threat)
+1. Reputational damage
+2.Vandalism (Taking control : Posting untrue stories)
+3.Theft
+4.Damage of intellectual property
+## Ways to prevent security breach
+1. Investing in cybersecurity training for all staff so that they are aware of and able to spot a cyber attack
+2. Enforcing two factor authentication for employees accessing files and applications that contain sensitive data
+3. Maintaining log files and ongoing monitoring to identify anomalous behavior that might indicate a data breach
+4. Storing the passwords of customers using a combination of encryption
+5. Separating cloud-based resources from the public Internet into an isolated private network segment
+6. Granting employee access to personal data and internal systems only via a secure VPN connection
